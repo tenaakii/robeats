@@ -1,3 +1,4 @@
+-- // made by tenaakii on github // --
 --// variables
 
 local player = game:GetService("Players").LocalPlayer;
